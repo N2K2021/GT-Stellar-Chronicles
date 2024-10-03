@@ -1,0 +1,6 @@
+#52B53D minecraft:air
+#A20C2F elevatorid:elevator_white
+#713BB2 gcyr:launch_pad
+#2A193E gcyr:rocket_scanner
+#CB82F8 minecraft:smooth_stone_slab
+#306E12 gtceu:stainless_steel_frame
