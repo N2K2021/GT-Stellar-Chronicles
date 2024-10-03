@@ -1,0 +1,23 @@
+[
+  {
+    "hostile": true,    
+    "random":0.5,
+    "result": "deny"
+  },  
+  {
+    "mob": "player_mobs:player_mob",  
+    "hostile": true,    
+    "random":0.75,
+    "result": "deny"
+  },
+  {
+    "mob": "minecraft:cod",
+    "random":0.75,
+    "result": "deny"  
+  },
+  {
+    "mob": "minecraft:salmon",
+    "random":0.75,
+    "result": "deny"  
+  }  
+]
