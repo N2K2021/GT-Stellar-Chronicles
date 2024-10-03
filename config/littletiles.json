@@ -1,0 +1,16 @@
+{
+  "core": {
+    "highest": 32
+  },
+  "general": {
+    "allowFlowingWater": true,
+    "allowFlowingLava": true,
+    "storagePerPixel": 1.0,
+    "enableBed": true,
+    "enableAnimationCollision": true,
+    "enableCollisionMotion": true,
+    "dyeVolume": 2.0,
+    "maxAllowedDensity": 2048,
+    "maxDoorDistance": 512
+  }
+}
