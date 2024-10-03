@@ -1,0 +1,12 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "fchronic_satanism"
+	group: "5798A5D2813928FB"
+	icon: "eidolon:unholy_symbol"
+	id: "7CFF8A977AA23026"
+	order_index: 0
+	quest_links: [ ]
+	quests: [ ]
+	title: "&fRepraised Satanism"
+}

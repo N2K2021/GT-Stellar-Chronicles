@@ -1,0 +1,16 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "fspace_race"
+	group: "769E127A4842029C"
+	icon: {
+		Count: 1
+		id: "ad_astra_rocketed:tier_7_rocket"
+		tag: { }
+	}
+	id: "7BEE73B0D4363B9A"
+	order_index: 0
+	quest_links: [ ]
+	quests: [ ]
+	title: "&fSpace Race"
+}

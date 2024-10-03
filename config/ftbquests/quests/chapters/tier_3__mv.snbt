@@ -1,0 +1,12 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "tier_3__mv"
+	group: "61BF70D3B5F8D87C"
+	icon: "gtceu:pyrolyse_oven"
+	id: "1CA21ADD858998A0"
+	order_index: 1
+	quest_links: [ ]
+	quests: [ ]
+	title: "&aTier 2 - MV"
+}

@@ -1,0 +1,12 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "tier_5__ev"
+	group: "69BD7E54FFFBA53D"
+	icon: "gtceu:radioactive_hazard_sign_block"
+	id: "445065124DDA6CF1"
+	order_index: 0
+	quest_links: [ ]
+	quests: [ ]
+	title: "&eTier 4 - EV"
+}

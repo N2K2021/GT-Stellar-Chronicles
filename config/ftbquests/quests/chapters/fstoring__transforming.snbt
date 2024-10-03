@@ -1,0 +1,22 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "fstoring__transforming"
+	group: "3CB1FBE7BD5E9322"
+	icon: {
+		Count: 1
+		ForgeCaps: {
+			Parent: { }
+		}
+		id: "actuallyadditions:single_battery"
+		tag: {
+			Charged: 1b
+			Energy: 200000.0d
+		}
+	}
+	id: "06D7A9C4E8606737"
+	order_index: 1
+	quest_links: [ ]
+	quests: [ ]
+	title: "&fStoring \\& Transforming"
+}

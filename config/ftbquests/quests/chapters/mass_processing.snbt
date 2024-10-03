@@ -1,0 +1,12 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "mass_processing"
+	group: "554260BAC1922D6B"
+	icon: "actuallyadditions:bio_reactor"
+	id: "5245C1CA48E45F5C"
+	order_index: 2
+	quest_links: [ ]
+	quests: [ ]
+	title: "&fMass Processing"
+}

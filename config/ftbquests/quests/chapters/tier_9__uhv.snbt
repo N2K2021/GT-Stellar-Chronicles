@@ -1,0 +1,12 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "tier_9__uhv"
+	group: "726EB8E8F39F9B01"
+	icon: "gtnn:large_naquadah_reactor"
+	id: "58387383BD8AEF62"
+	order_index: 1
+	quest_links: [ ]
+	quests: [ ]
+	title: "&dTier 8 - UV"
+}

@@ -1,0 +1,12 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "fworking_with_oil"
+	group: "3CB1FBE7BD5E9322"
+	icon: "gtceu:oil_bucket"
+	id: "5345E7632DF29F4E"
+	order_index: 2
+	quest_links: [ ]
+	quests: [ ]
+	title: "&fWorking with Oil"
+}
