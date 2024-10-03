@@ -1,0 +1,71 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "gate_tier"
+	group: "1E56C7445BFB28CA"
+	icon: {
+		Count: 1
+		id: "sgjourney:milky_way_dhd"
+		tag: {
+			BlockEntityTag: {
+				Energy: 0L
+				Inventory: {
+					Items: [
+						{
+							Count: 1b
+							Slot: 0
+							id: "sgjourney:large_control_crystal"
+						}
+						{
+							Count: 1b
+							Slot: 1
+							id: "sgjourney:energy_crystal"
+							tag: {
+								Energy: 0
+							}
+						}
+						{
+							Count: 1b
+							Slot: 2
+							id: "sgjourney:communication_crystal"
+							tag: {
+								Frequency: 0
+							}
+						}
+						{
+							Count: 1b
+							Slot: 3
+							id: "sgjourney:energy_crystal"
+							tag: {
+								Energy: 0
+							}
+						}
+						{
+							Count: 1b
+							Slot: 5
+							id: "sgjourney:energy_crystal"
+							tag: {
+								Energy: 0
+							}
+						}
+						{
+							Count: 1b
+							Slot: 7
+							id: "sgjourney:transfer_crystal"
+							tag: {
+								TransferLimit: 2500L
+							}
+						}
+					]
+					Size: 9
+				}
+				id: "sgjourney:milky_way_dhd"
+			}
+		}
+	}
+	id: "5A0296A94655D43B"
+	order_index: 2
+	quest_links: [ ]
+	quests: [ ]
+	title: "&cTier 15 - The Gate?"
+}

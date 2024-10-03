@@ -1,0 +1,12 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "flower_power"
+	group: "5798A5D2813928FB"
+	icon: "botania:grass_seeds"
+	id: "7F111841E4D488B5"
+	order_index: 2
+	quest_links: [ ]
+	quests: [ ]
+	title: "&fFlower Power"
+}

@@ -1,0 +1,12 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "multiblock_goals"
+	group: "554260BAC1922D6B"
+	icon: "gtceu:large_centrifuge"
+	id: "4A0A81FFACCD4D46"
+	order_index: 1
+	quest_links: [ ]
+	quests: [ ]
+	title: "&fMultiblock Goals"
+}

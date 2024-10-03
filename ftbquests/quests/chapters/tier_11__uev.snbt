@@ -1,0 +1,12 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "tier_11__uev"
+	group: "130B0051CC996341"
+	icon: "avaritia:eternal_singularity"
+	id: "18E513B415567470"
+	order_index: 0
+	quest_links: [ ]
+	quests: [ ]
+	title: "&9Tier 10 - UEV"
+}

@@ -1,0 +1,12 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "coins_coins_coins"
+	group: "7EF506B06BB6F1F1"
+	icon: "gtceu:ancient_gold_coin"
+	id: "1526714671019BA8"
+	order_index: 1
+	quest_links: [ ]
+	quests: [ ]
+	title: "&fCoins, Coins, Coins"
+}

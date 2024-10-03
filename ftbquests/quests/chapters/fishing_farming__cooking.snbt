@@ -1,0 +1,12 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "fishing_farming__cooking"
+	group: "77A5013AC913F6FC"
+	icon: "cataclysm:burning_ashes"
+	id: "5D2A0C28FD76A709"
+	order_index: 0
+	quest_links: [ ]
+	quests: [ ]
+	title: "&fFishing, Farming, Cooking"
+}
